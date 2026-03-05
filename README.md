@@ -31,10 +31,3 @@
 **Tools:** Git, GitHub, VS Code, Postman  
 
 ---
-
-## 🌐 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📧 Email: [your email]
-- 🌍 Website: [your website link]
-
----
