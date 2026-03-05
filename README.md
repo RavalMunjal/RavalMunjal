@@ -32,31 +32,9 @@
 
 ---
 
-## 📌 Featured Projects
-- 🔥 **Lead Generation Websites** (multi-city SEO system)
-- 🏠 **Real Estate & Broker Directory**
-- 🚗 **Car Rental Lead Network**
-- 🏥 **Medical / Clinic SEO Sites**
-- ☀️ **Solar Lead Projects**
-
-> Want me to add proper links here? Replace these with your repo links.
-
----
-
-## 📊 GitHub Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 - 💼 LinkedIn: [Your LinkedIn URL]
 - 📧 Email: [your email]
 - 🌍 Website: [your website link]
 
 ---
-
-## ⚡ Fun Line
-I don’t just build websites… I build websites that *Google can’t ignore* 😄
