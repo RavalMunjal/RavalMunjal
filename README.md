@@ -37,24 +37,12 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jilanmansuri&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jilanmansuri&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## 📫 Connect With Me  
 
-- 💼 GitHub: https://github.com/Jilanmansuri  
-- 📧 Email: jilan2410@gmail.com  
+- 💼 GitHub: https://github.com/RavalMunjal
+- 📧 Email: munjal.raval.cg@gmail.com  
 
 ---
 
