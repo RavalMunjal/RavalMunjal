@@ -49,7 +49,3 @@
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jilanmansuri&label=Profile+Views&color=blueviolet&style=flat" />
-</p>
