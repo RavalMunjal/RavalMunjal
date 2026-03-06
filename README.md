@@ -1,33 +1,69 @@
 <h1 align="center">Hi, I'm Munjal Raval 👋</h1>
 <p align="center">
-  <b>Web Developer • SEO Website Builder • Content + Code = Rankings</b><br/>
-  I build fast websites with clean UI, strong SEO, and simple content that humans actually enjoy reading.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+Jilan;Computer+Engineering+Student;Aspiring+Full+Stack+Developer" />
+</h1>
+
+<p align="center">
+  💻 Web Developer | 🌱 Learning Every Day | 🚀 Improving Skills
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔧 I build websites (HTML, CSS, JavaScript, PHP, Node basics)
-- 📈 I focus on SEO-first structure (speed, on-page, internal linking)
-- 🧠 I generate content that’s simple, keyword-smart, and readable
-- 🏢 Working at **NoovaTek**
-- 🌍 Based in India
+## 🙋‍♂️ About Me  
+
+- 🎓 Computer Engineering Student  
+- 💡 Interested in Web Development & Backend Development  
+- 🌱 Currently learning **React, Node.js, MongoDB**  
+- 🧠 Strong focus on fundamentals & real-world practice  
+- 🤝 Open to collaboration, internships & learning opportunities  
 
 ---
 
-## 🧩 What I Do Best
-- ✅ Local SEO landing pages (city/area pages)
-- ✅ Website speed + Core Web Vitals improvements
-- ✅ Clean UI sections (mobile-first)
-- ✅ Human-friendly web content with keywords
-- ✅ Lead generation websites (forms + CRM style panels)
+## 🛠️ Tech Stack  
+
+### 🚀 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
-**Frontend:** HTML, CSS, JavaScript  
-**Backend:** Node.js, Express, PHP  
-**Database:** MongoDB, JSON/JSONL  
-**Tools:** Git, GitHub, VS Code, Postman  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jilanmansuri&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jilanmansuri&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
+
+## 📫 Connect With Me  
+
+- 💼 GitHub: https://github.com/Jilanmansuri  
+- 📧 Email: jilan2410@gmail.com  
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jilanmansuri&label=Profile+Views&color=blueviolet&style=flat" />
+</p>
