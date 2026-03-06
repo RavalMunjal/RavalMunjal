@@ -10,11 +10,21 @@
 
 ## 🙋‍♂️ About Me  
 
-- 🎓 Computer Engineering Student  
-- 💡 Interested in Web Development & Backend Development  
-- 🌱 Currently learning **React, Node.js, MongoDB**  
-- 🧠 Strong focus on fundamentals & real-world practice  
-- 🤝 Open to collaboration, internships & learning opportunities  
+I am a Full Stack Web Developer currently studying at Swaminarayan University.
+
+I enjoy building web applications using JavaScript technologies such as Node.js, Express, MongoDB, and React. I like solving backend problems, building APIs, and creating clean and scalable systems.
+
+Recently I have worked on projects like:
+• Fleet Management System
+• E-commerce Web Application
+• REST API with MongoDB
+
+I am always learning new technologies and improving my development skills.
+
+Skills:
+JavaScript | Node.js | Express | MongoDB | React | REST APIs | Git
+
+I am open to internship and entry-level developer opportunities.
 
 ---
 
