@@ -10,16 +10,11 @@
 
 ## 🙋‍♂️ About Me  
 
-I am a Full Stack Web Developer currently studying at Swaminarayan University.
+I am a Full Stack Developer who enjoys building real, working products using the MERN stack. I focus on creating fast, simple, and scalable web applications that solve actual problems.
 
-I enjoy building web applications using JavaScript technologies such as Node.js, Express, MongoDB, and React. I like solving backend problems, building APIs, and creating clean and scalable systems.
+I like turning ideas into complete systems — from frontend UI to backend logic and database. I keep improving my skills by building projects, testing new ideas, and learning from real-world use cases.
 
-Recently I have worked on projects like:
-• Fleet Management System
-• E-commerce Web Application
-• REST API with MongoDB
-
-I am always learning new technologies and improving my development skills.
+I believe in clean code, practical solutions, and continuous learning.
 
 Skills:
 JavaScript | Node.js | Express | MongoDB | React | REST APIs | Git
