@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=34&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Munjal;Full+Stack+Developer;MERN+Stack+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Munjal;Full+Stack+Developer;MERN+Stack+Builder" />
 </h1>
 
 <p align="center">
@@ -10,10 +10,13 @@
 
 ## 🧠 About Me  
 
-I build real-world web applications using the MERN stack.  
-I focus on simple logic, clean code, and fast performance.
+I am a Full Stack Developer focused on building real-world web applications using the MERN stack. I enjoy working on both frontend and backend, turning simple ideas into complete and working systems.
 
-I like turning ideas into working systems — frontend to backend.
+I focus on writing clean and understandable code, building fast and responsive interfaces, and creating strong backend logic that can handle real use cases.
+
+I actively improve my skills by building projects, solving problems, and exploring how real applications work behind the scenes. I also practice problem solving regularly to improve my logic and thinking ability.
+
+My goal is to become a developer who can build scalable, useful, and reliable products that people actually use.
 
 ---
 
@@ -32,8 +35,9 @@ I like turning ideas into working systems — frontend to backend.
 ## 🚀 Work Focus  
 
 - Full Stack Web Apps  
-- REST APIs  
-- Database Design  
+- REST API Development  
+- MongoDB Database Design  
+- Problem Solving & Logic Building  
 - Real-world Projects  
 
 ---
@@ -41,6 +45,8 @@ I like turning ideas into working systems — frontend to backend.
 ## 🌐 Connect  
 
 - GitHub: https://github.com/RavalMunjal  
+- LinkedIn: https://www.linkedin.com/in/munjal-raval-aa66013a2/  
+- LeetCode: https://leetcode.com/u/MunjalRaval_555/  
 - Email: munjal.raval.cg@gmail.com  
 
 ---
