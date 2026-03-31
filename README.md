@@ -10,8 +10,6 @@
 
 ## 🧠 About Me  
 
-## 🧠 About Me  
-
 I am a Full Stack Developer who enjoys building real and useful web applications using the MERN stack. I like working on both frontend and backend, and I focus on creating complete systems that actually solve problems.
 
 I believe in keeping things simple and practical. My goal is to write clean code, build fast websites, and create backend systems that work smoothly in real situations.
