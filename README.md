@@ -10,35 +10,60 @@
 
 ## 🧠 About Me  
 
-I am a Full Stack Developer focused on building real-world web applications using the MERN stack. I enjoy working on both frontend and backend, turning simple ideas into complete and working systems.
+## 🧠 About Me  
 
-I focus on writing clean and understandable code, building fast and responsive interfaces, and creating strong backend logic that can handle real use cases.
+I am a Full Stack Developer who enjoys building real and useful web applications using the MERN stack. I like working on both frontend and backend, and I focus on creating complete systems that actually solve problems.
 
-I actively improve my skills by building projects, solving problems, and exploring how real applications work behind the scenes. I also practice problem solving regularly to improve my logic and thinking ability.
+I believe in keeping things simple and practical. My goal is to write clean code, build fast websites, and create backend systems that work smoothly in real situations.
 
-My goal is to become a developer who can build scalable, useful, and reliable products that people actually use.
+I spend most of my time building projects, testing new ideas, and improving my development skills step by step. Along with development, I also practice problem solving to improve my logic and thinking ability.
 
----
+I am someone who learns by doing. Instead of just watching tutorials, I prefer building real projects, facing errors, fixing them, and understanding how things work deeply.
 
-## ⚡ Skills  
+Right now, I am focused on becoming a strong Full Stack Developer who can build scalable applications and handle real-world challenges confidently.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
+I am open to internship and entry-level opportunities where I can learn, grow, and contribute to real projects.
 
 ---
 
-## 🚀 Work Focus  
+## ⚡ Tech Stack  
 
-- Full Stack Web Apps  
-- REST API Development  
-- MongoDB Database Design  
-- Problem Solving & Logic Building  
-- Real-world Projects  
+### 🚀 Core Stack  
+<p align="left">
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+</p>
+
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</p>
+
+### ⚙ Backend  
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth_JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+### 🧰 Tools  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+</p>
+
+---
+
+## 📊 Contribution Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavalMunjal&theme=github-compact&hide_border=true&area=true" />
+</p>
 
 ---
 
