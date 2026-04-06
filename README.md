@@ -1,79 +1,123 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Munjal;Full+Stack+Developer;MERN+Stack+Builder" />
-</h1>
+<div align="center">
 
-<p align="center">
-  🚀 Full Stack Developer | MERN Stack | Problem Solver
-</p>
+<!-- Animated banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Munjal%20Raval&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Builder&descAlignY=55&descAlign=50&descSize=18&descColor=94a3b8" />
 
----
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&lines=Building+full-stack+apps+from+scratch+%F0%9F%9A%80;Clean+code+%2B+real+solutions+%F0%9F%92%A1;MERN+Stack+%7C+REST+APIs+%7C+JWT+Auth;Open+to+Internships+%26+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 
-## 🧠 About Me  
+<br/>
 
-I am a Full Stack Developer who enjoys building real and useful web applications using the MERN stack. I like working on both frontend and backend, and I focus on creating complete systems that actually solve problems.
+<!-- Visitor counter + profile views -->
+<img src="https://komarev.com/ghpvc/?username=RavalMunjal&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/RavalMunjal?label=Followers&style=social" alt="Followers" />
 
-I believe in keeping things simple and practical. My goal is to write clean code, build fast websites, and create backend systems that work smoothly in real situations.
-
-I spend most of my time building projects, testing new ideas, and improving my development skills step by step. Along with development, I also practice problem solving to improve my logic and thinking ability.
-
-I am someone who learns by doing. Instead of just watching tutorials, I prefer building real projects, facing errors, fixing them, and understanding how things work deeply.
-
-Right now, I am focused on becoming a strong Full Stack Developer who can build scalable applications and handle real-world challenges confidently.
-
-I am open to internship and entry-level opportunities where I can learn, grow, and contribute to real projects.
+</div>
 
 ---
 
-## ⚡ Tech Stack  
+## 🧠 Who Am I?
 
-### 🚀 Core Stack  
-<p align="left">
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-</p>
+```ts
+const munjal = {
+  role        : "Full Stack Developer",
+  stack       : ["MongoDB", "Express", "React", "Node.js"],
+  approach    : "Learn by building → Break things → Fix & grow 🔄",
+  currentFocus: "Scalable apps + clean architecture",
+  openTo      : ["Internships", "Entry-level roles", "Collabs"],
+  funFact     : "I debug best at night ☕🌙",
+};
+```
 
-### 🎨 Frontend  
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
-
-### ⚙ Backend  
-<p align="left">
-  <img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Auth_JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
-
-### 🧰 Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-</p>
+> 💬 *"I don't just watch tutorials — I build, break, fix, and understand deeply."*
 
 ---
 
-## 📊 Contribution Activity  
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavalMunjal&theme=github-compact&hide_border=true&area=true" />
-</p>
+<div align="center">
+
+### 🔥 Core MERN Stack
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
+
+### ⚙️ Backend & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
+
+</div>
 
 ---
 
-## 🌐 Connect  
+## 📊 GitHub Stats
 
-- GitHub: https://github.com/RavalMunjal  
-- LinkedIn: https://www.linkedin.com/in/munjal-raval-aa66013a2/  
-- LeetCode: https://leetcode.com/u/MunjalRaval_555/  
-- Email: munjal.raval.cg@gmail.com  
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RavalMunjal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavalMunjal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RavalMunjal&theme=tokyonight&hide_border=true&background=0d1117&ring=60a5fa&fire=f97316&currStreakLabel=60a5fa" />
+
+</div>
 
 ---
 
-<p align="center">
-  ⚡ Keep Building
-</p>
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavalMunjal&bg_color=0d1117&color=60a5fa&line=3b82f6&point=f97316&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RavalMunjal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+## 🚀 What I'm Working On
+
+```
+🔨 Building full-stack projects with MERN
+🧠 Sharpening DSA & problem-solving skills
+📚 Exploring system design concepts
+🌐 Working towards open source contributions
+```
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavalMunjal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munjal-raval-aa66013a2/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MunjalRaval_555/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munjal.raval.cg@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn" />
+
+</div>
