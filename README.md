@@ -8,10 +8,6 @@
 
 <br/>
 
-<!-- Visitor counter + profile views -->
-<img src="https://komarev.com/ghpvc/?username=RavalMunjal&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/RavalMunjal?label=Followers&style=social" alt="Followers" />
-
 </div>
 
 ---
@@ -77,13 +73,6 @@ const munjal = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavalMunjal&bg_color=0d1117&color=60a5fa&line=3b82f6&point=f97316&area=true&hide_border=true" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RavalMunjal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
 
 ---
 
