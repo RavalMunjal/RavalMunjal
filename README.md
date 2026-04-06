@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Munjal%20Raval&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Builder&descAlignY=55&descAlign=50&descSize=18&descColor=94a3b8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Munjal%20Raval&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Builder&descAlignY=58&descAlign=50&descSize=17&descColor=94a3b8" />
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&lines=Building+full-stack+apps+from+scratch+%F0%9F%9A%80;Clean+code+%2B+real+solutions+%F0%9F%92%A1;MERN+Stack+%7C+REST+APIs+%7C+JWT+Auth;Open+to+Internships+%26+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -75,6 +75,14 @@ const munjal = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavalMunjal&bg_color=0d1117&color=60a5fa&line=3b82f6&point=f97316&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RavalMunjal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -205,6 +213,20 @@ const munjal = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn" />
+---
+
+### 💭 A Note Before You Go
+
+> *Every line of code I've written started with a problem I wanted to solve.*
+> 
+> I'm not just building projects — I'm building the version of myself that can handle real challenges, contribute to real teams, and grow every single day.
+> 
+> If you've made it this far, thanks for stopping by. Whether you're a recruiter, a fellow developer, or just a curious human — I'd love to connect. 🤝
+> 
+> **Let's build something meaningful together.** 🚀
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn&text=Keep%20Building%20%E2%9A%A1&fontSize=20&fontColor=94a3b8&fontAlignY=65" />
 
 </div>
