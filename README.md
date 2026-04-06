@@ -98,6 +98,101 @@ const munjal = {
 
 ---
 
+## 🗂️ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 SafeVault</h3>
+      <p><b>Emergency Security Locker — Personal Project</b></p>
+      <p>
+        A full-stack MERN app that acts as a secure digital locker for all critical emergency information — medical records, trusted contacts, insurance details, and identity documents — all in one protected place.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
+        <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+        <img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+      </p>
+      <p>
+        ✅ JWT Auth &nbsp;|&nbsp; ✅ Full CRUD &nbsp;|&nbsp; ✅ Dark Mode &nbsp;|&nbsp; ✅ Responsive
+      </p>
+      <a href="https://github.com/RavalMunjal/safevault">
+        <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://stately-wisp-22ff40.netlify.app">
+        <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚛 Transvora — FleetFlow</h3>
+      <p><b>Odoo × Gujarat Vidhyapith Hackathon 2026</b></p>
+      <p>
+        A web-based Fleet & Logistics Management System built during a hackathon. Centralizes vehicle tracking, driver management, trip dispatch, fuel expenses, and performance analytics in one dashboard.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
+        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
+      </p>
+      <p>
+        🏆 Hackathon Build &nbsp;|&nbsp; ✅ Role-based Auth &nbsp;|&nbsp; ✅ ROI Reports
+      </p>
+      <a href="https://github.com/AnshPatel191207/Odoo_x_Gujarat_Vidhyapith_Hackathon_2026">
+        <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://transvora-fleetflow.netlify.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚨 RapidResQ</h3>
+      <p><b>Craftathon Hackathon Project</b></p>
+      <p>
+        An emergency response web application built at Craftathon. Designed to connect people in distress with rapid assistance — faster communication, smarter dispatch, real impact in critical moments.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
+        <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+      </p>
+      <p>
+        🏆 Hackathon Build &nbsp;|&nbsp; ✅ Real-world Problem &nbsp;|&nbsp; ✅ MERN Stack
+      </p>
+      <a href="https://github.com/PalDPathak404/RapidResQ">
+        <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌿 PlantPal</h3>
+      <p><b>OpenPools Hackathon Project</b></p>
+      <p>
+        A full-stack plant care recommendation platform. Input your plant's environment (light, humidity, temperature) and get a personalized health score + care tips. Supports 200+ plant species with animated SVG health rings and Recharts visualizations.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+        <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Recharts-0d1117?style=flat-square&logo=chartdotjs&logoColor=FF6384" />
+      </p>
+      <p>
+        🏆 Hackathon Build &nbsp;|&nbsp; ✅ 200+ Plants &nbsp;|&nbsp; ✅ Health Score Engine
+      </p>
+      <a href="https://github.com/Dev1822/PlantPal">
+        <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://plant-pal-ten.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
