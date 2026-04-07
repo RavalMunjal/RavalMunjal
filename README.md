@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RavalMunjal&color=60a5fa&style=for-the-badge&label=PROFILE+VIEWS)&nbsp;&nbsp;![GitHub followers](https://img.shields.io/github/followers/RavalMunjal?style=for-the-badge&color=6366f1&labelColor=0d1117&logo=github&label=FOLLOWERS)&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=RavalMunjal&color=60a5fa&style=for-the-badge&label=PROFILE+VIEWS)&nbsp;&nbsp;![GitHub followers](https://img.shields.io/github/followers/RavalMunjal?style=for-the-badge&color=6366f1&labelColor=0d1117&logo=github&label=FOLLOWERS)&nbsp;
 
 </div>
 
@@ -43,31 +43,11 @@ I don't just write code — I craft experiences. From pixel-perfect UIs to robus
 ```txt
 📌 Status     → Open to Internships & Freelance
 📍 Location   → India 🇮🇳
+💬 Ask Me     → MERN Stack, REST APIs, JWT Auth
+⚡ Fun Fact   → Every bug is a feature waiting to be understood 😄
 ```
 
 </td>
-
-<br/>
-
-## 🌐 Let's Connect & Build Together
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-@RavalMunjal-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavalMunjal)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raval%20Munjal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munjal-raval-aa66013a2/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Munjal%20Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://munjalp11.netlify.app/)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-MunjalRaval-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MunjalRaval_555/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munjal.raval.cg@gmail.com)
-
-
-
-</div>
-
-<br/>
 <td width="48%" valign="top" align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=340&height=260&lines=const+munjal+%3D+%7B;++role%3A+'Full+Stack+Dev+%F0%9F%9A%80'%2C;++stack%3A+'MERN'%2C;++loves%3A+'Clean+Code+%2B+DSA'%2C;++exploring%3A+'System+Design'%2C;++status%3A+'Open+to+Work+%F0%9F%9F%A2'%2C;++dream%3A+'Build+for+millions'%2C;++country%3A+'India+%F0%9F%87%AE%F0%9F%87%B3'%2C;++mindset%3A+'Ship.+Learn.+Repeat.'%2C;%7D%3B" alt="Animated Code Block" />
@@ -90,6 +70,25 @@ I don't just write code — I craft experiences. From pixel-perfect UIs to robus
 </td>
 </tr>
 </table>
+
+---
+## 🌐 Let's Connect & Build Together
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@RavalMunjal-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavalMunjal)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raval%20Munjal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munjal-raval-aa66013a2/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Munjal%20Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://munjalp11.netlify.app/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-MunjalRaval-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MunjalRaval_555/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:munjal.raval.cg@gmail.com)
+
+
+
+</div>
 
 ---
 
@@ -140,6 +139,14 @@ I don't just write code — I craft experiences. From pixel-perfect UIs to robus
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavalMunjal&bg_color=0d1117&color=60a5fa&line=6366f1&point=f97316&area=true&hide_border=true&radius=8" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RavalMunjal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
 ---
