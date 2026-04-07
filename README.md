@@ -22,54 +22,28 @@
 
 ### 👋 Hey there! I'm **Munjal Raval**
 
-A passionate **Full Stack Developer** from India 🇮🇳, specializing in the **MERN Stack**. I love turning ideas into real, working products that people actually use.
+A passionate **Full Stack Developer** from India 🇮🇳, building real-world products using the **MERN Stack**.
 
-I don't just write code — I craft experiences. From pixel-perfect UIs to robust backend APIs, I care deeply about **every layer** of an application.
+I focus on writing clean, scalable code and creating smooth user experiences — from frontend design to backend logic.
 
 <br/>
 
-🚀 &nbsp;**Currently building** — scalable full-stack apps with clean architecture  
-🔍 &nbsp;**Exploring** — System Design, Advanced Backend Patterns & DSA  
-🎯 &nbsp;**Goal** — Join a team where I can contribute, learn, and grow fast  
-🧠 &nbsp;**Mindset** — "Solve the problem first, optimize later"  
-🤝 &nbsp;**Team Player** — I thrive in collaborative, fast-moving environments  
-💡 &nbsp;**Strength** — Turning complex requirements into simple, clean code  
-🌱 &nbsp;**Always Learning** — Because the best developers never stop growing  
-🎨 &nbsp;**UI Obsession** — Clean interfaces with snappy performance is my jam  
-🇮🇳 &nbsp;**Built in India** — Proudly coding from the land of innovation  
+🚀 **Currently Building** → Scalable Full Stack Apps  
+🔍 **Exploring** → System Design & Advanced Backend  
+🎯 **Goal** → Work with a team that builds impactful products  
+💡 **Strength** → Turning complex problems into simple solutions  
+🧠 **Mindset** → Build → Break → Learn → Repeat  
+🎨 **UI Love** → Clean, fast & user-friendly interfaces  
+🌱 **Learning Daily** → Because growth never stops  
 
 <br/>
 
 ```txt
-📌 Status     → Open to Internships & Freelance
-📍 Location   → India 🇮🇳
-💬 Ask Me     → MERN Stack, REST APIs, JWT Auth
-⚡ Fun Fact   → Every bug is a feature waiting to be understood 😄
-```
-
-</td>
-<td width="48%" valign="top" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=340&height=260&lines=const+munjal+%3D+%7B;++role%3A+'Full+Stack+Dev+%F0%9F%9A%80'%2C;++stack%3A+'MERN'%2C;++loves%3A+'Clean+Code+%2B+DSA'%2C;++exploring%3A+'System+Design'%2C;++status%3A+'Open+to+Work+%F0%9F%9F%A2'%2C;++dream%3A+'Build+for+millions'%2C;++country%3A+'India+%F0%9F%87%AE%F0%9F%87%B3'%2C;++mindset%3A+'Ship.+Learn.+Repeat.'%2C;%7D%3B" alt="Animated Code Block" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RavalMunjal&bg_color=0d1117&color=60a5fa&line=6366f1&point=f97316&area=true&hide_border=true&height=150&radius=8" />
-
-<br/>
-
-![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Express-eeeeee?style=flat-square&logo=express&logoColor=black)
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![](https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
+📌 Status   → Open to Internships & Freelance
+📍 Location → India 🇮🇳
+💬 Ask Me   → MERN Stack, APIs, Auth Systems
+⚡ Fun Fact → Debugging feels like solving a mystery 😄
+</td> <td width="48%" valign="top" align="center"> <!-- 🔥 Typing Animation --> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&pause=800&color=00C853&center=true&vCenter=true&width=360&height=60&lines=Full+Stack+Developer+🚀;MERN+Stack+Specialist;Building+Real+Projects;Always+Learning+🔥" /> <br/> <!-- 🔥 Animated Code Card --> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=360&height=220&lines=const+munjal+%3D+%7B;++role%3A+'Full+Stack+Dev',;++stack%3A+'MERN',;++focus%3A+'Clean+Architecture',;++learning%3A+'System+Design',;++status%3A+'Open+to+Work',;++goal%3A+'Build+Impactful+Apps',%7D%3B" /> <br/> <!-- 🔥 Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavalMunjal&bg_color=0d1117&color=22c55e&line=22c55e&point=f97316&area=true&hide_border=true&height=150" /> <br/> <!-- 🔥 Tech Stack Glow --> <p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,js,git" /> </p> </td> </tr> </table> ```
 
 ---
 ## 🌐 Let's Connect & Build Together
