@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Munjal%20Raval&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Builder&descAlignY=58&descAlign=50&descSize=17&descColor=94a3b8" />
 
-<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&lines=Building+full-stack+apps+from+scratch+%F0%9F%9A%80;Clean+code+%2B+real+solutions+%F0%9F%92%A1;MERN+Stack+%7C+REST+APIs+%7C+JWT+Auth;Open+to+Internships+%26+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
-<!-- Visitor counter + profile views -->
 <img src="https://komarev.com/ghpvc/?username=RavalMunjal&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/RavalMunjal?label=Followers&style=social" alt="Followers" />
 
@@ -18,7 +15,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding gif" />
+<img align="right" width="420" src="https://raw.githubusercontent.com/RavalMunjal/RavalMunjal/main/dev_animation.svg" alt="coding animation" />
 
 Hey! I'm **Munjal Raval** — a Full Stack Developer from Gujarat, India 🇮🇳
 
@@ -153,7 +150,6 @@ A personalized plant care recommendation engine. Feed in your plant's environmen
 
 <div align="center">
 
-<!-- Snake animation -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <br/>
