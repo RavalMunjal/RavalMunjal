@@ -15,38 +15,17 @@
 
 ## 🧠 About Me
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RavalMunjal/RavalMunjal/main/dev_animation.svg" alt="Munjal Raval - Developer Card" width="100%"/>
+</div>
 
 <br/>
 
-### 🙋‍♂️ Hey there! I'm Munjal Raval
+Hey! I'm **Munjal Raval** — a Full Stack Developer from Gujarat, India 🇮🇳 who builds real, complete applications using the MERN stack.
 
-```yaml
-Name     : Munjal Raval
-Location : Gujarat, India 🇮🇳
-Role     : Full Stack Developer
-Stack    : MongoDB · Express · React · Node.js
-Focus    : Scalable apps + Clean architecture
-Status   : Open to Internships & Entry-level Roles ✅
-```
-
-<br/>
-
-🔥 I build complete web apps — frontend to backend, DB to deployment.
-
-⚡ My approach: **jump in → break things → fix & understand deeply.**
-
-🏆 Competed in **3 hackathons**, shipped real products each time.
-
-🧩 Strong believer in **clean code**, real-world problem solving, and continuous growth.
-
-💡 Fun fact — my best debugging sessions happen **after midnight** ☕🌙
-
-<br/>
+I believe in learning by doing — jumping into projects, hitting errors, fixing them, and coming out understanding things deeply. That mindset has taken me through 3 hackathons and multiple real-world projects.
 
 > *"I don't just watch tutorials — I build, break, fix, and understand deeply."*
-
-<br clear="right"/>
 
 ---
 
