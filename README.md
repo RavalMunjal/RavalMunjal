@@ -8,24 +8,37 @@
 
 <br/>
 
+<!-- Visitor counter + profile views -->
+<img src="https://komarev.com/ghpvc/?username=RavalMunjal&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/RavalMunjal?label=Followers&style=social" alt="Followers" />
+
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
-```ts
-const munjal = {
-  role        : "Full Stack Developer",
-  stack       : ["MongoDB", "Express", "React", "Node.js"],
-  approach    : "Learn by building → Break things → Fix & grow 🔄",
-  currentFocus: "Scalable apps + clean architecture",
-  openTo      : ["Internships", "Entry-level roles", "Collabs"],
-  funFact     : "I debug best at night ☕🌙",
-};
-```
+<img align="right" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding gif" />
 
-> 💬 *"I don't just watch tutorials — I build, break, fix, and understand deeply."*
+Hey! I'm **Munjal Raval** — a Full Stack Developer from Gujarat, India 🇮🇳
+
+I build complete web applications using the **MERN stack**, focusing on both clean frontend experiences and solid backend systems. For me, development isn't just a skill — it's a way of thinking and solving real problems.
+
+My approach is simple: **learn by doing**. I jump into projects, hit errors, debug them, and come out understanding things deeply. That's how I've built everything from emergency-response apps at hackathons to a secure digital locker for life-critical data.
+
+**A bit more about me:**
+
+- 🔥 Specializing in **MERN Stack** full-stack development
+- 🏗️ Building **real-world scalable applications**
+- 🧩 Strong in **DSA & Problem Solving**
+- 🎨 Passionate about **clean UI & performance**
+- 🏆 Active **hackathon competitor** — 3 hackathons & counting
+- 🤝 Love collaborating and working in **team environments**
+- 💡 Fun fact: I debug best at **night** ☕🌙
+
+> *"I don't just watch tutorials — I build, break, fix, and understand deeply."*
+
+<br clear="right"/>
 
 ---
 
@@ -73,112 +86,55 @@ const munjal = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavalMunjal&bg_color=0d1117&color=60a5fa&line=3b82f6&point=f97316&area=true&hide_border=true" />
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RavalMunjal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Projects
 
-```
-🔨 Building full-stack projects with MERN
-🧠 Sharpening DSA & problem-solving skills
-📚 Exploring system design concepts
-🌐 Working towards open source contributions
-```
+### 🔐 SafeVault &nbsp;·&nbsp; <a href="https://github.com/RavalMunjal/safevault"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://stately-wisp-22ff40.netlify.app"><img src="https://img.shields.io/badge/Live-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7"/></a>
+
+> *Personal Project — MERN Stack*
+
+A secure digital locker where users can store all life-critical emergency information in one protected place — medical records, emergency contacts, insurance details, and identity documents. Built because during real emergencies, people can't find what they need in time.
+
+`React` `Node.js` `Express` `MongoDB` `JWT Auth` `Tailwind CSS`
 
 ---
 
-## 🗂️ Featured Projects
+### 🚛 Transvora — FleetFlow &nbsp;·&nbsp; <a href="https://github.com/AnshPatel191207/Odoo_x_Gujarat_Vidhyapith_Hackathon_2026"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://transvora-fleetflow.netlify.app/"><img src="https://img.shields.io/badge/Live-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7"/></a>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 SafeVault</h3>
-      <p><b>Emergency Security Locker — Personal Project</b></p>
-      <p>
-        A full-stack MERN app that acts as a secure digital locker for all critical emergency information — medical records, trusted contacts, insurance details, and identity documents — all in one protected place.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
-        <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-        <img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-      </p>
-      <p>
-        ✅ JWT Auth &nbsp;|&nbsp; ✅ Full CRUD &nbsp;|&nbsp; ✅ Dark Mode &nbsp;|&nbsp; ✅ Responsive
-      </p>
-      <a href="https://github.com/RavalMunjal/safevault">
-        <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://stately-wisp-22ff40.netlify.app">
-        <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚛 Transvora — FleetFlow</h3>
-      <p><b>Odoo × Gujarat Vidhyapith Hackathon 2026</b></p>
-      <p>
-        A web-based Fleet & Logistics Management System built during a hackathon. Centralizes vehicle tracking, driver management, trip dispatch, fuel expenses, and performance analytics in one dashboard.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-        <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
-        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
-      </p>
-      <p>
-        🏆 Hackathon Build &nbsp;|&nbsp; ✅ Role-based Auth &nbsp;|&nbsp; ✅ ROI Reports
-      </p>
-      <a href="https://github.com/AnshPatel191207/Odoo_x_Gujarat_Vidhyapith_Hackathon_2026">
-        <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://transvora-fleetflow.netlify.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚨 RapidResQ</h3>
-      <p><b>Craftathon Hackathon Project</b></p>
-      <p>
-        An emergency response web application built at Craftathon. Designed to connect people in distress with rapid assistance — faster communication, smarter dispatch, real impact in critical moments.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
-        <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-      </p>
-      <p>
-        🏆 Hackathon Build &nbsp;|&nbsp; ✅ Real-world Problem &nbsp;|&nbsp; ✅ MERN Stack
-      </p>
-      <a href="https://github.com/PalDPathak404/RapidResQ">
-        <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌿 PlantPal</h3>
-      <p><b>OpenPools Hackathon Project</b></p>
-      <p>
-        A full-stack plant care recommendation platform. Input your plant's environment (light, humidity, temperature) and get a personalized health score + care tips. Supports 200+ plant species with animated SVG health rings and Recharts visualizations.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
-        <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/Recharts-0d1117?style=flat-square&logo=chartdotjs&logoColor=FF6384" />
-      </p>
-      <p>
-        🏆 Hackathon Build &nbsp;|&nbsp; ✅ 200+ Plants &nbsp;|&nbsp; ✅ Health Score Engine
-      </p>
-      <a href="https://github.com/Dev1822/PlantPal">
-        <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <a href="https://plant-pal-ten.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+> *Odoo × Gujarat Vidhyapith Hackathon 2026*
+
+A web-based Fleet & Logistics Management System that digitalizes transportation operations end-to-end — vehicle registry, driver tracking, trip dispatch, maintenance logs, fuel expenses, and ROI reports. All in one centralized dashboard.
+
+`JavaScript` `CSS3` `Node.js` `Role-based Auth` `REST API`
+
+---
+
+### 🚨 RapidResQ &nbsp;·&nbsp; <a href="https://github.com/PalDPathak404/RapidResQ"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
+
+> *Craftathon Hackathon*
+
+An emergency response platform built to bridge the gap between people in distress and rapid assistance. Smarter dispatch, faster communication, and real impact when seconds matter.
+
+`React` `Node.js` `MongoDB` `Express` `REST API`
+
+---
+
+### 🌿 PlantPal &nbsp;·&nbsp; <a href="https://github.com/Dev1822/PlantPal"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white"/></a> <a href="https://plant-pal-ten.vercel.app/"><img src="https://img.shields.io/badge/Live-0d1117?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+> *OpenPools Hackathon*
+
+A personalized plant care recommendation engine. Feed in your plant's environment — light, temperature, humidity — and get a detailed health score (0–100) with targeted care advice. Supports 200+ plant species with animated SVG health rings and interactive Recharts dashboards.
+
+`React` `Vite` `Node.js` `MySQL` `Tailwind CSS` `Recharts`
 
 ---
 
@@ -207,11 +163,11 @@ const munjal = {
 ### 💭 A Note Before You Go
 
 > *Every line of code I've written started with a problem I wanted to solve.*
-> 
+>
 > I'm not just building projects — I'm building the version of myself that can handle real challenges, contribute to real teams, and grow every single day.
-> 
+>
 > If you've made it this far, thanks for stopping by. Whether you're a recruiter, a fellow developer, or just a curious human — I'd love to connect. 🤝
-> 
+>
 > **Let's build something meaningful together.** 🚀
 
 <br/>
