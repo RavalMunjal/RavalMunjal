@@ -124,14 +124,6 @@ I don't just write code — I craft experiences. From pixel-perfect UIs to robus
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RavalMunjal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</div>
-
----
-
 ## 🌐 Let's Connect & Build Together
 
 <div align="center">
