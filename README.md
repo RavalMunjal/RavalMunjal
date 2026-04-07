@@ -15,23 +15,34 @@
 
 ## 🧠 About Me
 
-<img align="right" width="420" src="https://raw.githubusercontent.com/RavalMunjal/RavalMunjal/main/dev_animation.svg" alt="coding animation" />
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-Hey! I'm **Munjal Raval** — a Full Stack Developer from Gujarat, India 🇮🇳
+<br/>
 
-I build complete web applications using the **MERN stack**, focusing on both clean frontend experiences and solid backend systems. For me, development isn't just a skill — it's a way of thinking and solving real problems.
+### 🙋‍♂️ Hey there! I'm Munjal Raval
 
-My approach is simple: **learn by doing**. I jump into projects, hit errors, debug them, and come out understanding things deeply. That's how I've built everything from emergency-response apps at hackathons to a secure digital locker for life-critical data.
+```yaml
+Name     : Munjal Raval
+Location : Gujarat, India 🇮🇳
+Role     : Full Stack Developer
+Stack    : MongoDB · Express · React · Node.js
+Focus    : Scalable apps + Clean architecture
+Status   : Open to Internships & Entry-level Roles ✅
+```
 
-**A bit more about me:**
+<br/>
 
-- 🔥 Specializing in **MERN Stack** full-stack development
-- 🏗️ Building **real-world scalable applications**
-- 🧩 Strong in **DSA & Problem Solving**
-- 🎨 Passionate about **clean UI & performance**
-- 🏆 Active **hackathon competitor** — 3 hackathons & counting
-- 🤝 Love collaborating and working in **team environments**
-- 💡 Fun fact: I debug best at **night** ☕🌙
+🔥 I build complete web apps — frontend to backend, DB to deployment.
+
+⚡ My approach: **jump in → break things → fix & understand deeply.**
+
+🏆 Competed in **3 hackathons**, shipped real products each time.
+
+🧩 Strong believer in **clean code**, real-world problem solving, and continuous growth.
+
+💡 Fun fact — my best debugging sessions happen **after midnight** ☕🌙
+
+<br/>
 
 > *"I don't just watch tutorials — I build, break, fix, and understand deeply."*
 
@@ -44,15 +55,12 @@ My approach is simple: **learn by doing**. I jump into projects, hit errors, deb
 <div align="center">
 
 ### 🔥 Core MERN Stack
-
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
 
 ### 🎨 Frontend
-
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
 
 ### ⚙️ Backend & Tools
-
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
 
 </div>
@@ -70,9 +78,7 @@ My approach is simple: **learn by doing**. I jump into projects, hit errors, deb
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavalMunjal&theme=tokyonight&hide_border=true&background=0d1117&ring=60a5fa&fire=f97316&currStreakLabel=60a5fa" />
-
 </div>
 
 ---
