@@ -13,19 +13,40 @@
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RavalMunjal/RavalMunjal/main/dev_animation.svg" alt="Munjal Raval - Developer Card" width="100%"/>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
+- 🧑‍💻 Full Stack Developer specializing in **MERN Stack**
+- 💻 Currently exploring **System Design & Advanced Backend**
+- 🔨 Building **real-world scalable applications**
+- 🌱 Passionate about **clean UI & performance optimization**
+- 🧠 Strong in **DSA & Problem Solving**
+- 🤝 Enjoy collaborating and working in **team environments**
+- 💡 Fun fact: I'm a **creative person** and I love my country 🇮🇳
+
+  </td>
+  <td valign="top" width="40%" align="center">
+
+<picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&width=300&height=160&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Builder+%E2%9A%A1;Building+Real+Products+%F0%9F%94%A8;Clean+Code+%2B+Scalable+Apps+%F0%9F%8E%AF;Open+to+Internships+%F0%9F%8C%9F;DSA+%26+Problem+Solver+%F0%9F%A7%A0" />
+</picture>
 
 <br/>
 
-Hey! I'm **Munjal Raval** — a Full Stack Developer from Gujarat, India 🇮🇳 who builds real, complete applications using the MERN stack.
+![](https://img.shields.io/badge/MERN-Stack-6366f1?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Open%20To-Internships-22c55e?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/India-🇮🇳-f97316?style=flat-square&labelColor=0d1117)
 
-I believe in learning by doing — jumping into projects, hitting errors, fixing them, and coming out understanding things deeply. That mindset has taken me through 3 hackathons and multiple real-world projects.
+<br/>
 
-> *"I don't just watch tutorials — I build, break, fix, and understand deeply."*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RavalMunjal&bg_color=0d1117&color=60a5fa&line=6366f1&point=f97316&area=true&hide_border=true&height=120" />
+
+  </td>
+  </tr>
+</table>
 
 ---
 
