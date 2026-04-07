@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RavalMunjal&color=60a5fa&style=for-the-badge&label=PROFILE+VIEWS)&nbsp;&nbsp;![GitHub followers](https://img.shields.io/github/followers/RavalMunjal?style=for-the-badge&color=6366f1&labelColor=0d1117&logo=github&label=FOLLOWERS)&nbsp;&nbsp;![Open to Work](https://img.shields.io/badge/STATUS-Open%20to%20Internships-22c55e?style=for-the-badge&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=RavalMunjal&color=60a5fa&style=for-the-badge&label=PROFILE+VIEWS)&nbsp;&nbsp;![GitHub followers](https://img.shields.io/github/followers/RavalMunjal?style=for-the-badge&color=6366f1&labelColor=0d1117&logo=github&label=FOLLOWERS)&nbsp;&nbsp;
 
 </div>
 
