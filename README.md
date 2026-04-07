@@ -6,9 +6,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RavalMunjal&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/RavalMunjal?label=Followers&style=social" alt="Followers" />
-
 </div>
 
 ---
