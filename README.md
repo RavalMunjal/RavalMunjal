@@ -1,7 +1,9 @@
 <div align="center">
 
+<!-- Animated banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Munjal%20Raval&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Builder&descAlignY=58&descAlign=50&descSize=17&descColor=94a3b8" />
 
+<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=60A5FA&center=true&vCenter=true&multiline=false&width=600&lines=Building+full-stack+apps+from+scratch+%F0%9F%9A%80;Clean+code+%2B+real+solutions+%F0%9F%92%A1;MERN+Stack+%7C+REST+APIs+%7C+JWT+Auth;Open+to+Internships+%26+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
@@ -10,40 +12,20 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 Who Am I?
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
+```ts
+const munjal = {
+  role        : "Full Stack Developer",
+  stack       : ["MongoDB", "Express", "React", "Node.js"],
+  approach    : "Learn by building → Break things → Fix & grow 🔄",
+  currentFocus: "Scalable apps + clean architecture",
+  openTo      : ["Internships", "Entry-level roles", "Collabs"],
+  funFact     : "I debug best at night ☕🌙",
+};
+```
 
-- 🧑‍💻 Full Stack Developer specializing in **MERN Stack**
-- 💻 Currently exploring **System Design & Advanced Backend**
-- 🔨 Building **real-world scalable applications**
-- 🌱 Passionate about **clean UI & performance optimization**
-- 🧠 Strong in **DSA & Problem Solving**
-- 🤝 Enjoy collaborating and working in **team environments**
-- 💡 Fun fact: I'm a **creative person** and I love my country 🇮🇳
-
-  </td>
-  <td valign="top" width="40%" align="center">
-
-<picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=true&width=300&height=160&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Builder+%E2%9A%A1;Building+Real+Products+%F0%9F%94%A8;Clean+Code+%2B+Scalable+Apps+%F0%9F%8E%AF;Open+to+Internships+%F0%9F%8C%9F;DSA+%26+Problem+Solver+%F0%9F%A7%A0" />
-</picture>
-
-<br/>
-
-![](https://img.shields.io/badge/MERN-Stack-6366f1?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Open%20To-Internships-22c55e?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/India-🇮🇳-f97316?style=flat-square&labelColor=0d1117)
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RavalMunjal&bg_color=0d1117&color=60a5fa&line=6366f1&point=f97316&area=true&hide_border=true&height=120" />
-
-  </td>
-  </tr>
-</table>
+> 💬 *"I don't just watch tutorials — I build, break, fix, and understand deeply."*
 
 ---
 
@@ -52,12 +34,15 @@
 <div align="center">
 
 ### 🔥 Core MERN Stack
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
 
 ### 🎨 Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" />
 
 ### ⚙️ Backend & Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
 
 </div>
@@ -75,7 +60,9 @@
 </div>
 
 <div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavalMunjal&theme=tokyonight&hide_border=true&background=0d1117&ring=60a5fa&fire=f97316&currStreakLabel=60a5fa" />
+
 </div>
 
 ---
@@ -85,6 +72,113 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavalMunjal&bg_color=0d1117&color=60a5fa&line=3b82f6&point=f97316&area=true&hide_border=true" />
 </div>
+
+
+---
+
+## 🚀 What I'm Working On
+
+```
+🔨 Building full-stack projects with MERN
+🧠 Sharpening DSA & problem-solving skills
+📚 Exploring system design concepts
+🌐 Working towards open source contributions
+```
+
+---
+
+## 🗂️ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 SafeVault</h3>
+      <p><b>Emergency Security Locker — Personal Project</b></p>
+      <p>
+        A full-stack MERN app that acts as a secure digital locker for all critical emergency information — medical records, trusted contacts, insurance details, and identity documents — all in one protected place.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
+        <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+        <img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+      </p>
+      <p>
+        ✅ JWT Auth &nbsp;|&nbsp; ✅ Full CRUD &nbsp;|&nbsp; ✅ Dark Mode &nbsp;|&nbsp; ✅ Responsive
+      </p>
+      <a href="https://github.com/RavalMunjal/safevault">
+        <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://stately-wisp-22ff40.netlify.app">
+        <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚛 Transvora — FleetFlow</h3>
+      <p><b>Odoo × Gujarat Vidhyapith Hackathon 2026</b></p>
+      <p>
+        A web-based Fleet & Logistics Management System built during a hackathon. Centralizes vehicle tracking, driver management, trip dispatch, fuel expenses, and performance analytics in one dashboard.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
+        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
+      </p>
+      <p>
+        🏆 Hackathon Build &nbsp;|&nbsp; ✅ Role-based Auth &nbsp;|&nbsp; ✅ ROI Reports
+      </p>
+      <a href="https://github.com/AnshPatel191207/Odoo_x_Gujarat_Vidhyapith_Hackathon_2026">
+        <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://transvora-fleetflow.netlify.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚨 RapidResQ</h3>
+      <p><b>Craftathon Hackathon Project</b></p>
+      <p>
+        An emergency response web application built at Craftathon. Designed to connect people in distress with rapid assistance — faster communication, smarter dispatch, real impact in critical moments.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933" />
+        <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+      </p>
+      <p>
+        🏆 Hackathon Build &nbsp;|&nbsp; ✅ Real-world Problem &nbsp;|&nbsp; ✅ MERN Stack
+      </p>
+      <a href="https://github.com/PalDPathak404/RapidResQ">
+        <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌿 PlantPal</h3>
+      <p><b>OpenPools Hackathon Project</b></p>
+      <p>
+        A full-stack plant care recommendation platform. Input your plant's environment (light, humidity, temperature) and get a personalized health score + care tips. Supports 200+ plant species with animated SVG health rings and Recharts visualizations.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+        <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/Recharts-0d1117?style=flat-square&logo=chartdotjs&logoColor=FF6384" />
+      </p>
+      <p>
+        🏆 Hackathon Build &nbsp;|&nbsp; ✅ 200+ Plants &nbsp;|&nbsp; ✅ Health Score Engine
+      </p>
+      <a href="https://github.com/Dev1822/PlantPal">
+        <img src="https://img.shields.io/badge/Source_Code-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://plant-pal-ten.vercel.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -103,6 +197,7 @@
 
 <div align="center">
 
+<!-- Snake animation -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <br/>
@@ -112,11 +207,11 @@
 ### 💭 A Note Before You Go
 
 > *Every line of code I've written started with a problem I wanted to solve.*
->
+> 
 > I'm not just building projects — I'm building the version of myself that can handle real challenges, contribute to real teams, and grow every single day.
->
+> 
 > If you've made it this far, thanks for stopping by. Whether you're a recruiter, a fellow developer, or just a curious human — I'd love to connect. 🤝
->
+> 
 > **Let's build something meaningful together.** 🚀
 
 <br/>
