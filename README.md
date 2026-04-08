@@ -117,10 +117,10 @@ I don't just write code — I craft experiences. From pixel-perfect UIs to robus
 
 <div align="center">
 
-<a href="https://github.com/RavalMunjal">
+<!-- <a href="https://github.com/RavalMunjal">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=RavalMunjal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=6366f1&text_color=c9d1d9&border_radius=12" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavalMunjal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&border_radius=12" />
-</a>
+</a> -->
 
 </div>
 
