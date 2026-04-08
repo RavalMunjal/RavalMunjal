@@ -43,8 +43,6 @@ I don't just write code — I craft experiences. From pixel-perfect UIs to robus
 ```txt
 📌 Status     → Open to Internships & Freelance
 📍 Location   → India 🇮🇳
-💬 Ask Me     → MERN Stack, REST APIs, JWT Auth
-⚡ Fun Fact   → Every bug is a feature waiting to be understood 😄
 ```
 
 </td>
