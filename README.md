@@ -1,14 +1,17 @@
 <div align="center">
 
-<h1 style="font-size:70px; font-weight:900; margin:0;">
-  <span style="background: linear-gradient(90deg, #1d4ed8, #38bdf8); -webkit-background-clip: text; color: transparent;">
-    Munjal Raval
-  </span>
-</h1>
+<!-- ANIMATED WAVE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=260&section=header&text=Munjal%20Raval&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40&descAlignY=65" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RavalMunjal&style=for-the-badge&color=2563eb"/>
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=🚀+Building+Scalable+Projects;💡+Clean+Code+%2B+Real+Logic;⚡+MERN+Stack+Developer;🌟+Open+For+Internships;🇮🇳+Growing+Every+Day" />
+
+<br/>
+
+<!-- STATS -->
+<img src="https://komarev.com/ghpvc/?username=RavalMunjal&style=for-the-badge&color=38bdf8"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/RavalMunjal?style=for-the-badge&color=1e3a8a&logo=github&label=Followers"/>
 
