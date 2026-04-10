@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:bfdbfe,100:e0f2fe&height=250&section=header&text=Munjal%20Raval&fontSize=60&fontColor=1e3a8a&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20Stack%20%7C%20REST%20APIs%20%7C%20Clean%20Code&descAlignY=62&descAlign=50&descSize=16&descColor=1d4ed8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=cylinder&color=0:dbeafe,100:bfdbfe&height=250&section=header&text=Munjal%20Raval&fontSize=60&fontColor=1e3a8a&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20Stack%20%7C%20REST%20APIs%20%7C%20Clean%20Code&descAlignY=65&descAlign=50&descSize=16&descColor=1d4ed8" />
   <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4e,100:0d2137&height=250&section=header&text=Munjal%20Raval&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20Stack%20%7C%20REST%20APIs%20%7C%20Clean%20Code&descAlignY=62&descAlign=50&descSize=16&descColor=60a5fa" />
 </picture>
 
