@@ -1,13 +1,12 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=cylinder&color=0:dbeafe,100:bfdbfe&height=250&section=header&text=Munjal%20Raval&fontSize=60&fontColor=1e3a8a&animation=fadeIn&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20Stack%20%7C%20REST%20APIs%20%7C%20Clean%20Code&descAlignY=65&descAlign=50&descSize=16&descColor=1d4ed8" />
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4e,100:0d2137&height=250&section=header&text=Munjal%20Raval&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20Stack%20%7C%20REST%20APIs%20%7C%20Clean%20Code&descAlignY=62&descAlign=50&descSize=16&descColor=60a5fa" />
-</picture>
+# 👨‍💻 Munjal Raval
+
+#### Full Stack Developer — MERN Stack | REST APIs | Clean Code
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&width=650&lines=%F0%9F%9A%80+Building+scalable+apps+from+scratch;%F0%9F%92%A1+Clean+architecture+%2B+real+solutions;%E2%9A%A1+MERN+Stack+%7C+REST+APIs+%7C+JWT+Auth;%F0%9F%8C%9F+Open+to+Internships+%26+Collaborations;%F0%9F%87%AE%F0%9F%87%B3+Proudly+building+from+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=650&lines=%F0%9F%9A%80+Building+scalable+apps+from+scratch;%F0%9F%92%A1+Clean+architecture+%2B+real+solutions;%E2%9A%A1+MERN+Stack+%7C+REST+APIs+%7C+JWT+Auth;%F0%9F%8C%9F+Open+to+Internships+%26+Collaborations;%F0%9F%87%AE%F0%9F%87%B3+Proudly+building+from+India" alt="Typing SVG" />
 
 <br/>
 
