@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=65&pause=99999&color=6366F1&center=true&vCenter=true&width=700&height=110&lines=Munjal+Raval" alt="Munjal Raval" />
+# <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=65&pause=99999&color=6366F1&center=true&vCenter=true&width=700&height=110&lines=Munjal+Raval" alt="Munjal Raval" />
+
 
 <br/>
 
