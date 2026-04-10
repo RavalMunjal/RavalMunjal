@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- ANIMATED WAVE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=260&section=header&text=Munjal%20Raval&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40&descAlignY=65" />
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:38bdf8&height=260&section=header&text=Munjal%20Raval&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=🚀+Building+Scalable+Projects;💡+Clean+Code+%2B+Real+Logic;⚡+MERN+Stack+Developer;🌟+Open+For+Internships;🇮🇳+Growing+Every+Day" />
+<!-- SKILL ANIMATION LINE (ADDED HERE ✅) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+%7C+MongoDB+%7C+Express;React+%7C+Node.js+%7C+REST+APIs;JWT+Auth+%7C+Clean+Architecture;Open+For+Internships" />
 
 <br/>
 
