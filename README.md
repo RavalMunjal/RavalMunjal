@@ -2,7 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=65&pause=99999&color=6366F1&center=true&vCenter=true&width=700&height=110&lines=Munjal+Raval" alt="Munjal Raval" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=99999&color=94A3B8&center=true&vCenter=true&width=700&height=40&lines=%3C+Full+Stack+Developer+%2F%3E+%E2%80%94+MERN+Stack+%7C+REST+APIs+%7C+Clean+Code" alt="subtitle" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+scalable+apps+from+scratch;%F0%9F%92%A1+Clean+architecture+%2B+real+solutions;%E2%9A%A1+MERN+Stack+%7C+REST+APIs+%7C+JWT+Auth;%F0%9F%8C%9F+Open+to+Internships+%26+Collaborations;%F0%9F%87%AE%F0%9F%87%B3+Proudly+building+from+India" alt="Typing SVG" />
 
 <br/>
 
