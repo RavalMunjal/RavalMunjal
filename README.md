@@ -42,40 +42,13 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RavalMunjal)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
+&nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munjal-raval-aa66013a2/)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
+&nbsp;&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://munjalr12.netlify.app/)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
+&nbsp;&nbsp;&nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MunjalRaval_555/)
-
-</td>
-</tr>
-
-</table>
 
 </div>
 
