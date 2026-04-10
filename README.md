@@ -1,9 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:dbeafe,30:bfdbfe,60:93c5fd,100:dbeafe&height=250&section=header&text=Munjal%20Raval&fontSize=60&fontColor=1e3a8a&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20Stack%20%7C%20REST%20APIs%20%7C%20Clean%20Code&descAlignY=62&descAlign=50&descSize=16&descColor=1d4ed8" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a1a4e,60:0d2137,100:0f0c29&height=250&section=header&text=Munjal%20Raval&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20Stack%20%7C%20REST%20APIs%20%7C%20Clean%20Code&descAlignY=62&descAlign=50&descSize=16&descColor=60a5fa" />
-  <img alt="Munjal Raval" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:1a1a4e,60:0d2137,100:0f0c29&height=250&section=header&text=Munjal%20Raval&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20Stack%20%7C%20REST%20APIs%20%7C%20Clean%20Code&descAlignY=62&descAlign=50&descSize=16&descColor=60a5fa" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:bfdbfe,100:e0f2fe&height=250&section=header&text=Munjal%20Raval&fontSize=60&fontColor=1e3a8a&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20Stack%20%7C%20REST%20APIs%20%7C%20Clean%20Code&descAlignY=62&descAlign=50&descSize=16&descColor=1d4ed8" />
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4e,100:0d2137&height=250&section=header&text=Munjal%20Raval&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20Stack%20%7C%20REST%20APIs%20%7C%20Clean%20Code&descAlignY=62&descAlign=50&descSize=16&descColor=60a5fa" />
 </picture>
 
 <br/>
@@ -12,7 +11,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RavalMunjal&color=60a5fa&style=for-the-badge&label=PROFILE+VIEWS)&nbsp;&nbsp;![GitHub followers](https://img.shields.io/github/followers/RavalMunjal?style=for-the-badge&color=6366f1&labelColor=0d1117&logo=github&label=FOLLOWERS)&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=RavalMunjal&color=60a5fa&style=for-the-badge&label=PROFILE+VIEWS)&nbsp;&nbsp;![GitHub followers](https://img.shields.io/github/followers/RavalMunjal?style=for-the-badge&color=6366f1&labelColor=0d1117&logo=github&label=FOLLOWERS)
 
 </div>
 
@@ -124,10 +123,24 @@
 
 <div align="center">
 
+### 💭 Before You Leave...
+
+<br/>
+
+> **"I don't just write code — I build solutions that matter."**
+>
+> Every project is a step toward becoming the developer who handles real challenges,
+> ships real products, and grows a little more every single day.
+>
+> Whether you're a **recruiter**, a **fellow dev**, or just a **curious human** — glad you stopped by. 👋
+>
+> **Let's build something meaningful together. 🚀**
+
+<br/>
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:93c5fd,100:bfdbfe&height=130&section=footer&animation=fadeIn&text=Keep%20Shipping%20%E2%9A%A1%20Keep%20Growing%20%F0%9F%9A%80&fontSize=18&fontColor=1e3a8a&fontAlignY=65" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&animation=fadeIn&text=Keep%20Shipping%20%E2%9A%A1%20Keep%20Growing%20%F0%9F%9A%80&fontSize=18&fontColor=60a5fa&fontAlignY=65" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&animation=fadeIn&text=Keep%20Shipping%20%E2%9A%A1%20Keep%20Growing%20%F0%9F%9A%80&fontSize=18&fontColor=60a5fa&fontAlignY=65" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dbeafe,50:bfdbfe,100:e0f2fe&height=130&section=footer&animation=fadeIn&text=Keep%20Shipping%20%E2%9A%A1%20Keep%20Growing%20%F0%9F%9A%80&fontSize=18&fontColor=1e3a8a&fontAlignY=65" />
+  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&animation=fadeIn&text=Keep%20Shipping%20%E2%9A%A1%20Keep%20Growing%20%F0%9F%9A%80&fontSize=18&fontColor=60a5fa&fontAlignY=65" />
 </picture>
 
 </div>
