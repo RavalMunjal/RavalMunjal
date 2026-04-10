@@ -1,12 +1,17 @@
 <div align="center">
 
-<!-- BIG NAME ONLY -->
-<h1 style="font-size:60px; font-weight:900; margin-bottom:10px;">
+<!-- NAME WITHOUT BACKGROUND (COLORED TEXT STYLE) -->
+<h1 style="font-size:48px; font-weight:800; margin-bottom:5px;">
   <span style="color:#2563eb;">Munjal</span> 
-  <span style="color:#38bdf8;">Raval</span>
+  <span style="color:#0f172a;">Raval</span>
 </h1>
 
-<!-- TYPING EFFECT (same rakha) -->
+<!-- SUBTITLE -->
+<p style="font-size:18px; color:#475569; margin-top:0;">
+  Full Stack Developer | MERN Stack | REST APIs
+</p>
+
+<!-- TYPING EFFECT -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Building+Real+Projects;Clean+Code+%2B+Simple+Logic;MERN+Stack+Developer;Open+For+Internships" />
 
 <br/>
