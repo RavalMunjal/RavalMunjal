@@ -29,9 +29,7 @@
 - 🌱 Passionate about **clean UI & performance optimization**
 - 🧠 Strong in **DSA & Problem Solving**
 - 🤝 Enjoy collaborating and working in **team environments**
-- I am a Full Stack Developer who enjoys building real, working products using the MERN stack. I focus on creating fast, simple, and scalable web applications that solve actual problems.
- 
-I like turning ideas into complete systems — from frontend UI to backend logic and database. I keep improving my skills by building projects, testing new ideas, and learning from real-world use cases.
+-I like turning ideas into complete systems — from frontend UI to backend logic and database. I keep improving my skills by building projects, testing new ideas, and learning from real-world use cases.
 
 <br/><br/>
 
