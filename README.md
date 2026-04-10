@@ -1,15 +1,28 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=65&pause=99999&color=6366F1&center=true&vCenter=true&width=700&height=110&lines=Munjal+Raval" alt="Munjal Raval" />
-
+<!-- LIGHT + DARK MODE SAFE HEADER -->
+<picture>
+  <!-- Light Mode -->
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:60a5fa&height=220&section=header&text=Munjal%20Raval&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20REST%20APIs&descAlignY=65&descAlign=50&descSize=16&descColor=e0f2fe" />
+  
+  <!-- Dark Mode -->
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=220&section=header&text=Munjal%20Raval&fontSize=55&fontColor=38bdf8&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20REST%20APIs&descAlignY=65&descAlign=50&descSize=16&descColor=94a3b8" 
+    alt="Munjal Raval Header" />
+</picture>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+scalable+apps+from+scratch;%F0%9F%92%A1+Clean+architecture+%2B+real+solutions;%E2%9A%A1+MERN+Stack+%7C+REST+APIs+%7C+JWT+Auth;%F0%9F%8C%9F+Open+to+Internships+%26+Collaborations;%F0%9F%87%AE%F0%9F%87%B3+Proudly+building+from+India" alt="Typing SVG" />
+<!-- TYPING LINE -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=🚀+Building+Real+Projects+That+Solve+Problems;💡+Clean+Code+%2B+Simple+Logic;⚡+MERN+Stack+%7C+APIs+%7C+JWT;🌟+Open+For+Internships+%26+Work;🇮🇳+Learning+%26+Growing+Every+Day" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RavalMunjal&color=60a5fa&style=for-the-badge&label=PROFILE+VIEWS)&nbsp;&nbsp;![GitHub followers](https://img.shields.io/github/followers/RavalMunjal?style=for-the-badge&color=6366f1&labelColor=0d1117&logo=github&label=FOLLOWERS)
+<!-- STATS -->
+<img src="https://komarev.com/ghpvc/?username=RavalMunjal&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/RavalMunjal?style=for-the-badge&color=6366f1&labelColor=0d1117&logo=github&label=FOLLOWERS"/>
 
 </div>
 
