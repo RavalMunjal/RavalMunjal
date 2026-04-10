@@ -19,9 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 - 👨‍💻 Full Stack Developer specializing in **MERN Stack**
 - 💻 Currently exploring **System Design & Advanced Backend**
@@ -31,21 +29,14 @@
 - 🤝 Enjoy collaborating and working in **team environments**
 - 💡 Fun fact: I'm a **creative person** and I love my country 🇮🇳
 
-<br/>
+<br/><br/>
 
 ```txt
 📌 Status     → Open to Internships & Freelance
 📍 Location   → India 🇮🇳
 ```
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
