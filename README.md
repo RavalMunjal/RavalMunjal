@@ -33,10 +33,6 @@
 
 <br/><br/>
 
-```txt
-📌 Status     → Open to Internships & Freelance
-📍 Location   → India 🇮🇳
-```
 
 <br clear="right"/>
 
@@ -122,10 +118,7 @@
 
 > **"I don't just write code — I build solutions that matter."**
 >
-> Every project is a step toward becoming the developer who handles real challenges,
-> ships real products, and grows a little more every single day.
->
-> Whether you're a **recruiter**, a **fellow dev**, or just a **curious human** — glad you stopped by. 👋
+
 >
 > **Let's build something meaningful together. 🚀**
 
