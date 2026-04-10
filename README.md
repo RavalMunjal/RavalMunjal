@@ -1,11 +1,17 @@
 <div align="center">
 
-<!-- CLEAN SOLID HEADER (NO IMAGE, NO CONFUSION) -->
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:1e3a8a&height=200&section=header&text=Munjal%20Raval&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20|%20REST%20APIs&descAlignY=65&descAlign=50&descSize=16&descColor=93c5fd" />
+<!-- NAME WITHOUT BACKGROUND (COLORED TEXT STYLE) -->
+<h1 style="font-size:48px; font-weight:800; margin-bottom:5px;">
+  <span style="color:#2563eb;">Munjal</span> 
+  <span style="color:#0f172a;">Raval</span>
+</h1>
 
-<br/>
+<!-- SUBTITLE -->
+<p style="font-size:18px; color:#475569; margin-top:0;">
+  Full Stack Developer | MERN Stack | REST APIs
+</p>
 
-<!-- SIMPLE TYPING -->
+<!-- TYPING EFFECT -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Building+Real+Projects;Clean+Code+%2B+Simple+Logic;MERN+Stack+Developer;Open+For+Internships" />
 
 <br/>
