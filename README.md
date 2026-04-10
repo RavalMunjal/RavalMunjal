@@ -1,22 +1,13 @@
 <div align="center">
 
-<!-- NAME WITHOUT BACKGROUND (COLORED TEXT STYLE) -->
-<h1 style="font-size:48px; font-weight:800; margin-bottom:5px;">
-  <span style="color:#2563eb;">Munjal</span> 
-  <span style="color:#0f172a;">Raval</span>
+<h1 style="font-size:70px; font-weight:900; margin:0;">
+  <span style="background: linear-gradient(90deg, #1d4ed8, #38bdf8); -webkit-background-clip: text; color: transparent;">
+    Munjal Raval
+  </span>
 </h1>
-
-<!-- SUBTITLE -->
-<p style="font-size:18px; color:#475569; margin-top:0;">
-  Full Stack Developer | MERN Stack | REST APIs
-</p>
-
-<!-- TYPING EFFECT -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Building+Real+Projects;Clean+Code+%2B+Simple+Logic;MERN+Stack+Developer;Open+For+Internships" />
 
 <br/>
 
-<!-- STATS -->
 <img src="https://komarev.com/ghpvc/?username=RavalMunjal&style=for-the-badge&color=2563eb"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/RavalMunjal?style=for-the-badge&color=1e3a8a&logo=github&label=Followers"/>
