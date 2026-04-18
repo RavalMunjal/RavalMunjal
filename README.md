@@ -57,7 +57,7 @@
 
 <div align="center">
 
-**🔥 Core MERN Stack**
+**🔥 Core Stack**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark&perline=4" />
 
@@ -65,13 +65,25 @@
 
 **🎨 Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark&perline=5" />
+
+<br/><br/>
+
+**⚙️ Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark&perline=5" />
+
+<br/><br/>
+
+**🧠 Programming & Logic**
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python&theme=dark&perline=3" />
 
 <br/><br/>
 
 **🛠️ Tools & DevOps**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,vercel,netlify&theme=dark&perline=7" />
 
 </div>
 
